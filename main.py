@@ -44,4 +44,4 @@ async def about(ctx):
     await ctx.send(embed=embed)
 
 # login to our bot
-bot.run('OTU2NTE3ODQzOTI5ODIxMTk1.YjxYqQ.JVgamx2iuOzkISMUAmokgYIHy5Y')
+bot.run('your bots token')
